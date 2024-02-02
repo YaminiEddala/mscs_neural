@@ -1,1 +1,3 @@
-# mscs_neural
+# NeuralNetwork/ICP_2
+## YAMINI EDDALA
+### 700756713
